@@ -11,9 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. Student in Computer Science**     2023-2027
+  * The University of Manchester, UK.
+  * Research Topic: Advanced Policy Optimization for Robot Control with Large Models
+
+* **M.Sc. in Mechanical Engineering**     2017-2019
+  * Sharif University of Technology, Tehran, Iran.
+  * Research Topic: Optimal-Swarm Control of Micro-Robots for Energy Saving
+
+* **B.Sc. in Mechanical Engineering**     2012-2017
+  * Sharif University of Technology, Tehran, Iran.
+  * Research Topic: Dynamics-Based Control Policy for Quadruped Locomotion
+
+* **B.Sc. in Aerospace Engineering (2ⁿᵈ major)**     2012-2017
+  * Sharif University of Technology, Tehran, Iran.
+
+* **High-School Diploma in Mathematics and Physics**     2008-2012
+  * National Organization for Development of Exceptional Talents, Iran.
 
 Work experience
 ======
