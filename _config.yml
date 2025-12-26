@@ -26,10 +26,7 @@ author:
   avatar           : "Hossein_Profile.jpg"
   name             : "Hossein Abdi"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student in Computer Science (AI and Robotics) at The University of Manchester, with research interests
-                      in Optimization, Reinforcement Learning, Control Theory, and Robotics. Previously earned MSc and BSc
-                      degrees in Mechanical Engineering with a focus on Robotics and Control Theory from Sharif University of
-                      Technology."
+  bio              : "AI and Robotics Researcher"
   location         : "Manchester, UK"
   employer         : "The University of Manchester"
   uri              : # URL
