@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. Student in Computer Science**     2023-2027
+* **Ph.D. Student in Computer Science**  &nbsp;&nbsp;   2023-2027
   * The University of Manchester, UK.
   * Research Topic: Advanced Policy Optimization for Robot Control with Large Models
 
-* **M.Sc. in Mechanical Engineering**     2017-2019
+* **M.Sc. in Mechanical Engineering**  &nbsp;&nbsp;   2017-2019
   * Sharif University of Technology, Tehran, Iran.
   * Research Topic: Optimal-Swarm Control of Micro-Robots for Energy Saving
 
-* **B.Sc. in Mechanical Engineering**     2012-2017
+* **B.Sc. in Mechanical Engineering**  &nbsp;&nbsp;   2012-2017
   * Sharif University of Technology, Tehran, Iran.
   * Research Topic: Dynamics-Based Control Policy for Quadruped Locomotion
 
-* **B.Sc. in Aerospace Engineering (2ⁿᵈ major)**     2012-2017
+* **B.Sc. in Aerospace Engineering (2ⁿᵈ major)**  &nbsp;&nbsp;   2012-2017
   * Sharif University of Technology, Tehran, Iran.
 
-* **High-School Diploma in Mathematics and Physics**     2008-2012
+* **High-School Diploma in Mathematics and Physics**  &nbsp;&nbsp;   2008-2012
   * National Organization for Development of Exceptional Talents, Iran.
 
 Work experience
