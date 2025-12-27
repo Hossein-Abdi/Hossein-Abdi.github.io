@@ -27,7 +27,7 @@ Education
   * Sharif University of Technology, Tehran, Iran.
 
 * **High-School Diploma in Mathematics and Physics**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   2008-2012
-  * National Organization for Development of Exceptional Talents, Iran.
+  * National Organization for Development of Exceptional Talents, Allameh Helli High School, Iran.
 
 <!-- Work experience
 ======
