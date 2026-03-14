@@ -12,7 +12,7 @@ site_theme               : "default" # the available themes options are "default
 title                    : "Hossein Abdi"
 title_separator          : "-"
 name                     : &name "Hossein Abdi"
-description              : &description "AI and Robotics Researcher"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : # &description "AI and Robotics Researcher"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://hossein-abdi.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "Hossein_Profile.jpg"
   name             : "Hossein Abdi"
   pronouns         : # example: "she/her"  
-  bio              : "AI and Robotics Researcher"
+  bio              : # "AI and Robotics Researcher"
   location         : "Manchester, UK"
   employer         : "The University of Manchester"
   uri              : # URL
