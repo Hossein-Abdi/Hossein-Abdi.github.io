@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-<!--
-I'm a Ph.D. student in Computer Science (AI and Robotics) at The University of Manchester, with research interests in Optimization, Reinforcement Learning, Control Theory, and Robotics. Previously, I earned MSc and BSc degrees in Mechanical Engineering with a focus on Robotics and Control Theory from Sharif University of Technology.
--->
+
+Ph.D. student in Computer Science (Machine Learning and Robotics) at The University of Manchester, with
+research interests in second-order optimization, policy gradient reinforcement learning, control theory, and
+robotics. I hold M.Sc. and B.Sc. degrees in Mechanical Engineering from Sharif University of Technology, with a
+focus on robotics and control theory. My current Ph.D. research focuses on Kalman-based methods for
+recursively estimating the natural policy gradient, with the goal of enabling efficient and scalable second-order
+optimization in reinforcement learning.
