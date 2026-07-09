@@ -8,16 +8,9 @@ redirect_from:
 
 Key Skills
 ======
-**Programming Languages**: Python (PyTorch, TensorFlow) · C/C++ · MATLAB/Simulink · Linux · Git · Docker · ROS · LaTeX
+**Programming Languages**: Python (PyTorch, TensorFlow) · C/C++ · MATLAB/Simulink · Linux · Git · Docker · ROS · LaTeX  
 
-**Engineering Tools**: Mathematica · Maple · SolidWorks · AutoCAD · CATIA · ANSYS · Fluent · COMSOL
+**Engineering Tools**: Mathematica · Maple · SolidWorks · AutoCAD · CATIA · ANSYS · Fluent · COMSOL  
 
-**Professional Ability**: Research Supervision (BSc and MSc Students) · Time Management · Independent Decision-Making · Collaborative Teamwork · Adaptability · Flexibility
+**Professional Ability**: Research Supervision (BSc and MSc Students) · Time Management · Independent Decision-Making · Collaborative Teamwork · Adaptability · Flexibility  
 
-Languages
-======
-**English**: Professional · **Persian**: Native · **Turkish**: Elementary · **Arabic**: Elementary
-
-Hobbies and Activities
-======
-Reading · Travel · Cycling · Following the News · Swimming · Soccer
