@@ -1,14 +1,15 @@
 ---
 permalink: /academic-experience/
-title: "Academic Experience"
+title: "Experiences"
 author_profile: true
 redirect_from:
   - /academic-experience.html
 ---
 
 
-Academic Experience
-======
+<!-- Academic Experience
+====== -->
+
 **Visitor and Participant at ETH Zürich, Switzerland**, 2025  
 Visited ETH Zürich, Switzerland, and participated in the International Ph.D. School Program on Learning-Based Model Predictive Control, led by Prof. Melanie Zeilinger, at the Intelligent Control Systems Lab, Institute for Dynamic Systems and Control, Department of Mechanical and Process Engineering, Zurich, Switzerland.  
 
@@ -22,6 +23,6 @@ Topic: Modern Machine Learning. Score: 10 out of 10 (A+). National Research Univ
 Co-supervisor for several M.Sc. theses and undergraduate final-year research projects at The University of Manchester.
 
 **Teaching Assistant**, 2016-2026  
-- Cognitive Robotics and Computer Vision, Machine Learning and the Physical World, Reinforcement Learning, Mathematical Topics in Machine Learning, Reasoning and Learning under Uncertainty, Microcontrollers, Introduction to AI, Introduction to Programming at The University of Manchester  
-- Robotics at Tampere University  
-- Dynamics, Dynamics of Machinery, Engineering Graphics, Thermodynamics at Sharif University of Technology  
+- Cognitive Robotics and Computer Vision, Machine Learning and the Physical World, Reinforcement Learning, Mathematical Topics in Machine Learning, Reasoning and Learning under Uncertainty, Microcontrollers, Introduction to AI, Introduction to Programming at *The University of Manchester*  
+- Robotics at *Tampere University*  
+- Dynamics, Dynamics of Machinery, Engineering Graphics, Thermodynamics at *Sharif University of Technology*  
