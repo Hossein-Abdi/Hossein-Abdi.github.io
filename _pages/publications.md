@@ -6,7 +6,7 @@ redirect_from:
   - /publications.html
 ---
 
-1. **Abdi, Hossein**, Parsa Ghezelbash, Angelo Cangelosi, and Mingfei Sun. "KPG: Kalman Policy Gradient." *submitted* to Journal of Machine Learning Research (2026).
+1. **Abdi, Hossein**, Parsa Ghezelbash, Angelo Cangelosi, and Mingfei Sun. "KPG: Kalman Policy Gradient." *submitted* to <u>Journal of Machine Learning Research (2026)</u>.
 
 2. **Abdi, Hossein**, Parsa Ghezelbash, Angelo Cangelosi, and Mingfei Sun. "Kalman-Based Policy Optimization Algorithms: Theory, Convergence, and Empirical Comparisons." *submitted* to AAAI (2026).
 
