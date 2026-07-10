@@ -11,18 +11,20 @@ redirect_from:
 ====== -->
 
 **Visitor and Participant at ETH Zürich, Switzerland**, 2025  
-Visited ETH Zürich, Switzerland, and participated in the International Ph.D. School Program on Learning-Based Model Predictive Control, led by Prof. Melanie Zeilinger, at the Intelligent Control Systems Lab, Institute for Dynamic Systems and Control, Department of Mechanical and Process Engineering, Zurich, Switzerland.  
+Visited <u>ETH Zürich, Switzerland</u>, and participated in the International Ph.D. School Program on <u>Learning-Based Model Predictive Control</u>, led by Prof. Melanie Zeilinger, at the Intelligent Control Systems Lab, Institute for Dynamic Systems and Control, Department of Mechanical and Process Engineering, Zurich, Switzerland.  
 
 **Researcher at Tampere University, Finland**, 2021-2023  
-Research on Safe RL and Learning-based Control of Mobile-Robots.
+Research on <u>Safe Reinforcement Learning and Learning-based Control of Mobile-Robots</u>.
 
 **Summer School in Saint Petersburg, Russia**, 2019  
-Topic: Modern Machine Learning. Score: 10 out of 10 (A+). National Research University (HSE), Saint Petersburg, Russia.
+Topic: Modern Machine Learning.  
+Score: 10 out of 10 (A+).  
+National Research University (HSE), Saint Petersburg, Russia.
 
 **Research Supervision**, 2023-2026  
 Co-supervisor for several M.Sc. theses and undergraduate final-year research projects at The University of Manchester.
 
 **Teaching Assistant**, 2016-2026  
-- Cognitive Robotics and Computer Vision, Machine Learning and the Physical World, Reinforcement Learning, Mathematical Topics in Machine Learning, Reasoning and Learning under Uncertainty, Microcontrollers, Introduction to AI, Introduction to Programming at *The University of Manchester*  
-- Robotics at *Tampere University*  
-- Dynamics, Dynamics of Machinery, Engineering Graphics, Thermodynamics at *Sharif University of Technology*  
+- *The University of Manchester*: <u>Cognitive Robotics and Computer Vision</u>, <u>Machine Learning and the Physical World</u>, <u>Reinforcement Learning</u>, <u>Mathematical Topics in Machine Learning</u>, <u>Reasoning and Learning under Uncertainty</u>, <u>Microcontrollers</u>, <u>Introduction to AI</u>, <u>Introduction to Programming</u>  
+- *Tampere University*: <u>Robotics</u>  
+- *Sharif University of Technology*: <u>Dynamics</u>, <u>Dynamics of Machinery</u>, <u>Engineering Graphics</u>, <u>Thermodynamics</u>  
