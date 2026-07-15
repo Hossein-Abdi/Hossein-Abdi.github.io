@@ -6,30 +6,32 @@ redirect_from:
   - /publications.html
 ---
 
-1. **Abdi, Hossein**, Parsa Ghezelbash, Angelo Cangelosi, and Mingfei Sun. "KPG: Kalman Policy Gradient." *submitted* to <u>Journal of Machine Learning Research</u> (2026).
+1. **Abdi, Hossein**, Parsa Ghezelbash, Angelo Cangelosi, and Mingfei Sun. "KPG: Kalman Policy Gradient." *Submitted* to <u>Journal of Machine Learning Research</u> (2026).
 
 2. **Abdi, Hossein**, Parsa Ghezelbash, Angelo Cangelosi, and Mingfei Sun. "Kalman-Based Policy Optimization Algorithms: Theory, Convergence, and Empirical Comparisons." *submitted* to <u>AAAI (2026)</u>.
 
 3. Dash, Satya Prakash, **Hossein Abdi**, Wei Pan, Samuel Kaski, and Mingfei Sun. "Gradient Regularized Natural Gradients." <u>Artificial Intelligence and Statistics</u> (2026).
 
-4. **Abdi, Hossein**, Satya Prakash Dash, Mingfei Sun, and Wei Pan. "Guided Riemannian Optimization (GuRO): Bridging Model Predictive Control and Decision Transformers." *submitted* (2026).
+4. **Abdi, Hossein**, Satya Prakash Dash, Mingfei Sun, and Wei Pan. "Guided Riemannian Optimization (GuRO): Bridging Model Predictive Control and Decision Transformers." 65th <u>IEEE Conference on Decision and Control (CDC 2026)</u>.
 
-5. **Abdi, Hossein**, Mingfei Sun, and Wei Pan. "Bayesian Natural Gradient Fine-Tuning of CLIP Models via Kalman Filtering." <u>IEEE International Conference on Data Mining</u> (2025).
+5. Nenu, Adrian Mircea, Satya Prakash Dash, Victor M. Yeom-Song, Yingxiao Huo, Beining Zhang, Yihe Zhou, **Hossein Abdi**, Brendan Bennett, Samuel Kaski, and Mingfei Sun. "A Survey of Expectation-Maximization Methods for Policy Optimization in Deep Reinforcement Learning." *Submitted* to <u>Transactions on Machine Learning Research</u>, 2026.
 
-6. **Abdi, Hossein**, Mingfei Sun, Andi Zhang, Samuel Kaski, and Wei Pan. "LoKO: Low-Rank Kalman Optimizer for Online Fine-Tuning of Large Models." arXiv preprint arXiv:2410.11551 (2024).
+6. **Abdi, Hossein**, Mingfei Sun, and Wei Pan. "Bayesian Natural Gradient Fine-Tuning of CLIP Models via Kalman Filtering." <u>IEEE International Conference on Data Mining</u> (2025).
 
-7. **Abdi, Hossein**, Pan Zhao, Naira Hovakimyan, and Reza Ghabcheloo. "Model Predictive Control Barrier Functions: Guaranteed Safety with Reduced Conservatism and Shortened Horizon." In 2024 <u>American Control Conference (ACC)</u>, pp. 1652-1657. IEEE, 2024.
+7. **Abdi, Hossein**, Mingfei Sun, Andi Zhang, Samuel Kaski, and Wei Pan. "LoKO: Low-Rank Kalman Optimizer for Online Fine-Tuning of Large Models." arXiv preprint arXiv:2410.11551 (2024).
 
-8. **Abdi, Hossein**, and Hossein Nejat Pishkenari. "Self-learning swimming of a three-disk microrobot in a viscous and stochastic environment using reinforcement learning." <u>Engineering Applications of Artificial Intelligence</u> 123 (2023): 106188.
+8. **Abdi, Hossein**, Pan Zhao, Naira Hovakimyan, and Reza Ghabcheloo. "Model Predictive Control Barrier Functions: Guaranteed Safety with Reduced Conservatism and Shortened Horizon." In 2024 <u>American Control Conference (ACC)</u>, pp. 1652-1657. IEEE, 2024.
 
-9. Zhao, Pan, Reza Ghabcheloo, Yikun Cheng, **Hossein Abdi**, and Naira Hovakimyan. "Convex synthesis of control barrier functions under input constraints." <u>IEEE Control Systems Letters</u> 7 (2023): 3102-3107.
+9. **Abdi, Hossein**, and Hossein Nejat Pishkenari. "Self-learning swimming of a three-disk microrobot in a viscous and stochastic environment using reinforcement learning." <u>Engineering Applications of Artificial Intelligence</u> 123 (2023): 106188.
 
-10. **Abdi, Hossein**, Golnaz Raja, and Reza Ghabcheloo. "Safe control using vision-based control barrier function (V-CBF)." In <u>IEEE International Conference on Robotics and Automation</u>, pp. 782-788. IEEE, 2023.
+10. Zhao, Pan, Reza Ghabcheloo, Yikun Cheng, **Hossein Abdi**, and Naira Hovakimyan. "Convex synthesis of control barrier functions under input constraints." <u>IEEE Control Systems Letters</u> 7 (2023): 3102-3107.
 
-11. Toulkani, Naeim Ebrahimi, **Hossein Abdi**, Olli Koskelainen, and Reza Ghabcheloo. "Reactive safe path following for differential drive mobile robots using control barrier functions." In 2022 10th <u>International Conference on Control, Mechatronics and Automation (ICCMA)</u>, pp. 60-65. IEEE, 2022.
+11. **Abdi, Hossein**, Golnaz Raja, and Reza Ghabcheloo. "Safe control using vision-based control barrier function (V-CBF)." In <u>IEEE International Conference on Robotics and Automation</u>, pp. 782-788. IEEE, 2023.
 
-12. **Abdi, Hossein**, and Hossein Nejat Pishkenari. "Controlled swarm motion of self-propelled microswimmers for energy saving." <u>Journal of Micro-Bio Robotics</u> 17, no. 1 (2021): 23-33.
+12. Toulkani, Naeim Ebrahimi, **Hossein Abdi**, Olli Koskelainen, and Reza Ghabcheloo. "Reactive safe path following for differential drive mobile robots using control barrier functions." In 2022 10th <u>International Conference on Control, Mechatronics and Automation (ICCMA)</u>, pp. 60-65. IEEE, 2022.
 
-13. **Abdi, Hossein**, and Hossein Nejat Pishkenari. "Optimal control of a high maneuverable micro-swimmer in low Reynolds number flow to reduce energy consumption." In 2019 7th <u>International Conference on Robotics and Mechatronics (ICRoM)</u>, pp. 110-113. IEEE, 2019.
+13. **Abdi, Hossein**, and Hossein Nejat Pishkenari. "Controlled swarm motion of self-propelled microswimmers for energy saving." <u>Journal of Micro-Bio Robotics</u> 17, no. 1 (2021): 23-33.
 
-14. **Abdi, H.**, M. J. Shaker Arani, H. Salarieh, and M. M. Kakaei. "Dynamic modeling and Designing a dynamic based control algorithm for legged quadruped robot locomotion." <u>Modares Mechanical Engineering</u> 19, no. 11 (2019): 2635-2644.
+14. **Abdi, Hossein**, and Hossein Nejat Pishkenari. "Optimal control of a high maneuverable micro-swimmer in low Reynolds number flow to reduce energy consumption." In 2019 7th <u>International Conference on Robotics and Mechatronics (ICRoM)</u>, pp. 110-113. IEEE, 2019.
+
+15. **Abdi, H.**, M. J. Shaker Arani, H. Salarieh, and M. M. Kakaei. "Dynamic modeling and Designing a dynamic based control algorithm for legged quadruped robot locomotion." <u>Modares Mechanical Engineering</u> 19, no. 11 (2019): 2635-2644.
