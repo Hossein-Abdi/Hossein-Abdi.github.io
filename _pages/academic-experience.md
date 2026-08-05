@@ -10,6 +10,10 @@ redirect_from:
 <!-- Academic Experience
 ====== -->
 
+**Summer School in Cambridge, United Kingdom**, 2026  
+Topic: *<u>Mathematical Foundations of Deep Learning</u>*.  
+Centre for Mathematical Sciences, University of Cambridge, UK.
+
 **Visitor and Participant at ETH Zürich, Switzerland**, 2025  
 Visited *<u>ETH Zürich, Switzerland</u>*, and participated in the International Ph.D. School Program on *<u>Learning-Based Model Predictive Control</u>*, led by Prof. Melanie Zeilinger, at the Intelligent Control Systems Lab, Institute for Dynamic Systems and Control, Department of Mechanical and Process Engineering, Zurich, Switzerland.  
 
