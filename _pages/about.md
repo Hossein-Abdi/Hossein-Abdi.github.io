@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Hossein Abdi"
 author_profile: true
 redirect_from: 
   - /about/
