@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Hossein Abdi"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Hossein Abdi"
 description              : # &description "AI and Robotics Researcher"   # Update this with a general description of your site, this is the default if not overridden by a page
