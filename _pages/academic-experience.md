@@ -32,6 +32,3 @@ Co-supervisor for several M.Sc. theses and undergraduate final-year research pro
 - *The University of Manchester:* <u>Cognitive Robotics and Computer Vision</u>, <u>Machine Learning and the Physical World</u>, <u>Reinforcement Learning</u>, <u>Mathematical Topics in Machine Learning</u>, <u>Reasoning and Learning under Uncertainty</u>, <u>Microcontrollers</u>, <u>Introduction to AI</u>, <u>Introduction to Programming</u>  
 - *Tampere University:* <u>Robotics</u>  
 - *Sharif University of Technology:* <u>Dynamics</u>, <u>Dynamics of Machinery</u>, <u>Engineering Graphics</u>, <u>Thermodynamics</u>  
-
-
-
