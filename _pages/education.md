@@ -8,7 +8,7 @@ redirect_from:
 
 **Ph.D. Student in Computer Science**, Dec. 2026  
 The University of Manchester, UK.  
-Research Topic: *<u>Kalman-based scalable second-order optimization for large models in reinforcement learning and robotic control.</u>*
+Research Topic: *<u>Kalman-based scalable second-order policy optimization for large models in reinforcement learning and robotic control.</u>*
 
 **M.Sc. in Mechanical Engineering**, Sep. 2019  
 Sharif University of Technology  
