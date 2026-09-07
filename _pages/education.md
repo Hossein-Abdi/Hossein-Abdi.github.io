@@ -13,6 +13,7 @@ Supervisor: Dr. Mingfei Sun — Co-supervisor: Prof. Angelo Cangelosi
 
 **M.Sc. in Mechanical Engineering — Sharif University of Technology**, Sep. 2019  
 Thesis Title: *Optimal control and swarm coordination strategies for energy-efficient micro-robotic systems.*  
+Specialization: Dynamics & Control
 
 **B.Sc. in Mechanical Engineering — Sharif University of Technology**, Sep. 2017  
 Thesis Title: *Model-based control policy design for quadrupedal locomotion.*  
